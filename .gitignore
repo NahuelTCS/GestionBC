@@ -1,0 +1,13 @@
+# Compilados de Java
+out/
+*.class
+
+# Configuracion de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos de datos que genera el programa al ejecutarse
+lotes.txt
+expensas.txt
+reclamos.txt
+prueba_reclamos.txt
